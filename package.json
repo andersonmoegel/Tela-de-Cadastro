@@ -1,0 +1,12 @@
+{
+  "name": "electron-client-registration",
+  "version": "1.0.0",
+  "description": "Formulário de Cadastro de Clientes com Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^12.0.2"
+  }
+}
